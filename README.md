@@ -1,2 +1,0 @@
-# my-hf-etl
-pingan
